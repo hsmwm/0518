@@ -1,0 +1,5 @@
+name:hsm
+log:
+  name:hsm
+  level:INFO
+  file_ok:False
